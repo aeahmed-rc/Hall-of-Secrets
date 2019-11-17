@@ -1,0 +1,64 @@
+body{
+  background-image: url('img/thehall.jpg');
+  background-size: contain;
+  text-align: center;
+  font-family: 'Vibes', cursive;
+}
+.page-header h1{
+  font-size:50px;
+  font-stretch: expanded;
+  color: #720640;
+  font-style: 'Vibes', cursive;
+}
+h2{
+  color:#720640;
+  font-family: 'Vibes', cursive;
+}
+.fa-user-secret{
+  color: white;
+}
+
+.col-sm-6{
+  margin: auto;
+  width: 100%;
+}
+h3{
+  color:#720640;
+  font-family: 'Vibes', cursive;
+  font-size: 40px;
+}
+.submitButton{
+  display: inline-block;
+  padding: 6px 12px;
+  margin-bottom: 0;
+  font-size: 20px;
+  font-weight: normal;
+  line-height: 1.428571429;
+  text-align: center;
+  white-space: nowrap;
+  vertical-align: middle;
+  cursor: pointer;
+  background-image: none;
+  border: 1px solid transparent;
+  border-radius: 4px;
+  -webkit-user-select: none;
+  -moz-user-select: none;
+  -ms-user-select: none;
+  -o-user-select: none;
+  user-select: none;
+  border: 2px solid white;
+  border-radius: 20px;
+  font-style: 'Vibes', cursive;
+  background-color: #720640;
+  color:white;
+}
+input{
+  border-radius: 20px;
+}
+span{
+  color:#720640;
+  font-size: 25px;
+}
+.fa-mask{
+  color:white;
+}
